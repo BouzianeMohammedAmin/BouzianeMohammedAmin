@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **BouzianeMohammedAmin/BouzianeMohammedAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=BouzianeMohammedAmin&count_private=true&show_icons=true&theme=tokyonight&line_height=33)](https://github.com/BouzianeMohammedAmin?tab=repositories&q=&type=public)
+[![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=BouzianeMohammedAmin&count_private=true&theme=tokyonight&line_height=30&hide=html&layout=default)](https://github.com/BouzianeMohammedAmin?tab=repositories&q=&type=public)
